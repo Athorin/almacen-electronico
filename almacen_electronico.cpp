@@ -1,7 +1,7 @@
 /*
   Name: Almacen de Productos Electronicos
   Copyright: 01
-  Author: Fco Alejandro Azorin Gil
+  Author: Fran
   Date: 27/01/12 17:19
   Description: Base de Datos
   
